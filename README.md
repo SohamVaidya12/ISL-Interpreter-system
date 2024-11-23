@@ -41,6 +41,38 @@ The **Indian Sign Language (ISL) Interpreter System** bridges the communication 
 
 ---
 
+## 📊 SignVaria Dataset
+The **SignVaria dataset** is a custom dataset created to enhance the performance and accuracy of the ISL Interpreter System. It consists of **Indian Sign Language (ISL) gestures**, and has been specially curated for training the system in recognizing various sign language gestures.
+
+- **Dataset Contents**: Contains a diverse range of **sign gestures** and their corresponding textual labels.
+- **Purpose**: The dataset is used for training **CNN models** to improve the **gesture recognition accuracy**.
+- **Licensing**: The dataset has been **licensed and uploaded on Kaggle**, making it publicly accessible for use and further development in the field of **sign language recognition**.
+- **Access**: You can explore and download the dataset from [Kaggle SignVaria Dataset](https://www.kaggle.com/datasets/sohamvaidya1627/sign-varia).
+
+### Included Emergency Signs:
+The dataset includes 13 essential emergency signs in Indian Sign Language (ISL), specifically curated for use in urgent and critical situations. These signs are crucial in conveying immediate needs, potential dangers, and distress signals, making the dataset valuable for healthcare, emergency services, and safety applications. The categories include:
+
+- Alone
+- Call
+- Flower
+- Friend
+- I'm Good
+- I Want Food
+- Not Fine
+- Ok Fine
+- Pain
+- Stop
+- Thief
+- There is Gun
+- Victory
+
+### Collection Methodology:
+- **Image Capturing**: Using Cvzone and Mediapipe libraries, images of hand gestures were captured in real-time. These tools enable accurate hand tracking and pose estimation, ensuring precise gesture capture for each emergency sign in ISL.
+- **Data Labeling**: Once the images were captured, they were manually labeled with their corresponding emergency sign (e.g., "Alone," "Call," "Pain") to ensure correct categorization.
+- **Storage**: Labeled images were organized into directories based on the gesture they represent, facilitating easy access and structured storage for further training.
+
+---
+
 ## 🏗️ Architecture
 ![Architecture Diagram](archi1.jpg)
 
@@ -49,33 +81,33 @@ The **Indian Sign Language (ISL) Interpreter System** bridges the communication 
 ## 💻 Technologies Used
 
 ### 1. **Programming Languages**
-- **Python:** Primary language used for **model development**, **data preprocessing**, and **algorithm implementation**.
+- **Python**: Primary language used for **model development**, **data preprocessing**, and **algorithm implementation**.
 
 ### 2. **Machine Learning Frameworks**
-- **TensorFlow/Keras:** Used for **building and training CNN models**, enabling effective gesture recognition.
-- **PyTorch:** Alternative framework for **neural network experimentation**.
+- **TensorFlow/Keras**: Used for **building and training CNN models**, enabling effective gesture recognition.
+- **PyTorch**: Alternative framework for **neural network experimentation**.
 
 ### 3. **Computer Vision Libraries**
-- **OpenCV:** Used for **image processing**, including gesture detection, resizing, and augmentation.
-- **cvzone:** High-level library used for **real-time hand tracking** and **gesture detection**.
+- **OpenCV**: Used for **image processing**, including gesture detection, resizing, and augmentation.
+- **cvzone**: High-level library used for **real-time hand tracking** and **gesture detection**.
 
 ### 4. **Dataset Tools**
-- **Pandas and NumPy:** For **data management** and preprocessing, ensuring compatibility for training.
-- **Matplotlib and Seaborn:** Used for **visualizing data** and evaluating model performance.
+- **Pandas and NumPy**: For **data management** and preprocessing, ensuring compatibility for training.
+- **Matplotlib and Seaborn**: Used for **visualizing data** and evaluating model performance.
 
 ### 5. **Model Optimization Techniques**
-- **Transfer Learning:** Utilizes **pre-trained CNN models** to **boost model accuracy** and **reduce training time**.
+- **Transfer Learning**: Utilizes **pre-trained CNN models** to **boost model accuracy** and **reduce training time**.
 
 ### 6. **Deployment Tools**
-- **Gradio :** For building **interactive real-time interfaces**.
-
+- **Gradio or Streamlit**: For building **interactive real-time interfaces**.
+- **Flask/Django**: For **backend integration** and **scalable deployment**.
 
 ### 7. **Development Environment**
-- **Jupyter Notebook:** For **exploratory development** and **model experimentation**.
-- **Google Colab:** For utilizing **GPU acceleration** to speed up training.
+- **Jupyter Notebook**: For **exploratory development** and **model experimentation**.
+- **Google Colab**: For utilizing **GPU acceleration** to speed up training.
 
 ### 8. **Version Control**
-- **Git and GitHub:** For **version control**, **collaborative development**, and **repository management**.
+- **Git and GitHub**: For **version control**, **collaborative development**, and **repository management**.
 
 ---
 
