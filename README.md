@@ -32,6 +32,38 @@ The design is future-ready, with the potential for expansion. Planned enhancemen
 ### 7. Inclusive Design
 The system’s user-friendly approach bridges the gap between the deaf and hearing communities, making it an essential tool for promoting accessibility, inclusivity, and independence for hearing-impaired individuals.
 
+## Technologies Used
+
+### 1. Programming Languages
+- **Python:** The core language for developing the system, utilized for data preprocessing, model training, and implementation of algorithms.
+
+### 2. Machine Learning Frameworks
+- **TensorFlow/Keras:** Used for building and training the CNN models, enabling efficient deep learning-based gesture recognition.
+- **PyTorch (if applicable):** Alternative framework for neural network development and experimentation.
+
+### 3. Computer Vision Libraries
+- **OpenCV:** For image processing tasks such as gesture detection, resizing, and augmentation.
+- **cvzone:** A high-level computer vision library used for hand tracking and object detection tasks in real-time.
+
+### 4. Dataset Tools
+- **Pandas and NumPy:** For managing and preprocessing the curated dataset, ensuring the data is formatted correctly for training.
+- **Matplotlib and Seaborn:** For visualizing data distributions, model accuracy, and performance metrics.
+
+### 5. Model Optimization Techniques
+- **Transfer Learning:** Leveraged pre-trained CNN models for faster convergence and better performance on ISL-specific data.
+
+### 6. Deployment Tools
+- **Gradio or Streamlit:** To create an interactive interface for real-time ISL translation demonstrations.
+- **Flask/Django (if applicable):** For backend integration, enabling broader deployment of the system.
+
+### 7. Development Environment
+- **Jupyter Notebook:** For experimentation and iterative development during the research and training phases.
+- **Google Colab (if used):** For utilizing GPUs to accelerate model training and testing.
+
+### 8. Version Control
+- **Git and GitHub:** For tracking project development, managing updates, and hosting the repository for collaboration.
+
+This section highlights the key tools and technologies used to build your **ISL Interpreter System**, demonstrating its technical foundation in deep learning and computer vision without the LSTM component.
 
 
  
