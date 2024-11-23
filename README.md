@@ -3,6 +3,11 @@
 # ISL Interpreter System
 The **Indian Sign Language (ISL) Interpreter System** bridges the communication gap between the hearing-impaired and non-signing individuals. Utilizing curated datasets and advanced models like CNN and cvzone-based object detection, the system translates short sign words into text in real-time. This tool addresses challenges in emergency communication and promotes inclusivity and accessibility.
 
+## 🎯 Objectives
+- **Curated Dataset Creation**: Develop a dataset of **Indian Sign Language (ISL)** gestures, forming the foundation for accurate gesture recognition.
+- **Real-Time Translation**: Build a system capable of translating **short sign words into text** in real-time, enabling smooth communication.
+- **Bridging Communication Gap**: Facilitate seamless interaction between **deaf** individuals and **non-signing** individuals, fostering inclusivity in everyday conversations.
+
 ## 🚀 Features
 
 ### 1. **Hand Gesture Recognition**
@@ -58,10 +63,11 @@ The **Indian Sign Language (ISL) Interpreter System** bridges the communication 
 
 ### 6. **Deployment Tools**
 - **Gradio or Streamlit:** For building **interactive real-time interfaces**.
+- **Flask/Django:** For **backend integration** and **scalable deployment**.
 
 ### 7. **Development Environment**
-- **Pycharm:** For **exploratory development** and **model experimentation**.
-
+- **Jupyter Notebook:** For **exploratory development** and **model experimentation**.
+- **Google Colab:** For utilizing **GPU acceleration** to speed up training.
 
 ### 8. **Version Control**
 - **Git and GitHub:** For **version control**, **collaborative development**, and **repository management**.
@@ -74,7 +80,8 @@ Follow these steps to run the ISL Interpreter System:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ISL-Interpretation-system.git
+   git clone https://github.com/yourusername/ISL-Interpreter-System.git
+
 
 
 
