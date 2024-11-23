@@ -65,6 +65,7 @@ The dataset includes 13 essential emergency signs in Indian Sign Language (ISL),
 - Thief
 - There is Gun
 - Victory
+![Sign Images Example](SignImg.png)
 
 ### Collection Methodology:
 - **Image Capturing**: Using Cvzone and Mediapipe libraries, images of hand gestures were captured in real-time. These tools enable accurate hand tracking and pose estimation, ensuring precise gesture capture for each emergency sign in ISL.
