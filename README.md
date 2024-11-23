@@ -2,12 +2,6 @@
 ![ISL Interpreter Logo](logo1.png)
 
 # ISL-Interpretation-system
-ISL Project- This project aims to bridge the communication gap be
-tween the deaf and normal population by developing
- an ISL interpreter system. We successfully curated
- a vital dataset and implemented the key models.
- These models collectively demonstrated promising re
-sults in translating short sign phrases to text, especially
- in emergency scenarios.
+The Indian Sign Language (ISL) Interpreter System bridges the communication gap between the hearing-impaired and non-signing individuals. It utilizes curated datasets and advanced models, including 3D CNN, CNN-LSTM, and object detection with cvzone, to translate short sign words into text in real time. This system addresses challenges in emergency communication and promotes accessibility. 
 
- Link of Youtube Video-https://youtu.be/Sd71eDOXi5g?si=fT-ETxR5tS8eq8QE
+ 
