@@ -112,12 +112,12 @@ The dataset includes 13 essential emergency signs in Indian Sign Language (ISL),
 - **Transfer Learning**: Utilizes **pre-trained CNN models** to **boost model accuracy** and **reduce training time**.
 
 ### 6. **Deployment Tools**
-- **Gradio or Streamlit**: For building **interactive real-time interfaces**.
-- **Flask/Django**: For **backend integration** and **scalable deployment**.
+- **Gradio**: For building **interactive real-time interfaces**.
+
 
 ### 7. **Development Environment**
-- **Jupyter Notebook**: For **exploratory development** and **model experimentation**.
-- **Google Colab**: For utilizing **GPU acceleration** to speed up training.
+- **Pycharm**: For **exploratory development** and **model experimentation**.
+
 
 ### 8. **Version Control**
 - **Git and GitHub**: For **version control**, **collaborative development**, and **repository management**.
