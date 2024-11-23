@@ -1,5 +1,5 @@
 
-![ISL Interpreter Logo](logo_1.png)
+![ISL Interpreter Logo](logo1.png)
 
 # ISL-Interpretation-system
 ISL Project- This project aims to bridge the communication gap be
