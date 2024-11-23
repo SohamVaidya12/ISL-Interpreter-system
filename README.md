@@ -134,6 +134,44 @@ Here are the performance metrics for the **Convolutional Neural Network (CNN)** 
 | **Recall**   | 0.951     |
 | **F1 Score** | 0.956     |
 
+## 🚀 Future Scope
+
+The **Indian Sign Language (ISL) Interpreter System** offers several avenues for future development and enhancement:
+
+1. **Enhanced Gesture Recognition**:
+   - Expanding the dataset to include a wider range of ISL gestures, covering more words and phrases for better communication.
+   - Utilizing **3D hand gesture recognition** to improve accuracy and handle complex gestures more effectively.
+
+2. **Integration with Augmented Reality (AR)**:
+   - Exploring the use of **AR** to provide real-time visual translations of sign language gestures, offering an interactive experience.
+   - This can help individuals who are unfamiliar with ISL to see the translation of gestures as 3D text or avatars in real-time.
+
+3. **Multilingual Translation**:
+   - Incorporating **multi-language support**, enabling the system to translate gestures into different languages (e.g., English, Hindi) and vice versa.
+   - This could be especially useful in India, where multiple languages are spoken.
+
+4. **Mobile Application**:
+   - Developing a mobile app to make the system more accessible and portable for everyday use, offering real-time translation via the phone's camera.
+   - The app could feature an offline mode to ensure functionality in areas with limited internet connectivity.
+
+5. **Advanced AI Models**:
+   - Implementing **deep learning models** such as **transformer-based architectures** to handle more complex phrases and improve real-time translation efficiency.
+   - Incorporating **multi-modal inputs** (e.g., voice and gesture) to further enhance communication.
+
+6. **Real-Time Translation in Public Services**:
+   - Deploying the system in public spaces like hospitals, airports, and government offices to help hearing-impaired individuals interact seamlessly with services.
+   - This could also extend to **emergency services**, providing quick and accurate communication for the hearing-impaired in critical situations.
+
+---
+
+## 📍 Conclusion
+
+The **Indian Sign Language (ISL) Interpreter System** is an important step toward breaking down communication barriers between the hearing-impaired and non-signing communities. By leveraging advanced technologies like **Convolutional Neural Networks (CNN)**, **cvzone hand tracking**, and a specialized dataset, the system offers real-time gesture recognition and translation. 
+
+Key achievements include the successful recognition of common ISL gestures, including those critical for emergency scenarios, with an impressive accuracy of **96.1%**. This system holds significant promise for improving accessibility and inclusivity in various environments, especially in communication and emergency response settings.
+
+While the system is functional and promising, the future scope presents exciting opportunities for expansion and refinement. With the potential to incorporate more gestures, enhance recognition capabilities, and broaden application areas, the ISL Interpreter System can play a crucial role in empowering the hearing-impaired community and fostering better communication for all.
+
 
 ## 🚀 Getting Started
 
