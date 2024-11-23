@@ -58,11 +58,10 @@ The **Indian Sign Language (ISL) Interpreter System** bridges the communication 
 
 ### 6. **Deployment Tools**
 - **Gradio or Streamlit:** For building **interactive real-time interfaces**.
-- **Flask/Django:** For **backend integration** and **scalable deployment**.
 
 ### 7. **Development Environment**
-- **Jupyter Notebook:** For **exploratory development** and **model experimentation**.
-- **Google Colab:** For utilizing **GPU acceleration** to speed up training.
+- **Pycharm:** For **exploratory development** and **model experimentation**.
+
 
 ### 8. **Version Control**
 - **Git and GitHub:** For **version control**, **collaborative development**, and **repository management**.
