@@ -41,6 +41,11 @@ The **Indian Sign Language (ISL) Interpreter System** bridges the communication 
 
 ---
 
+## 🏗️ Architecture
+![Architecture Diagram](archi1.jpg)
+
+---
+
 ## 💻 Technologies Used
 
 ### 1. **Programming Languages**
@@ -62,8 +67,8 @@ The **Indian Sign Language (ISL) Interpreter System** bridges the communication 
 - **Transfer Learning:** Utilizes **pre-trained CNN models** to **boost model accuracy** and **reduce training time**.
 
 ### 6. **Deployment Tools**
-- **Gradio or Streamlit:** For building **interactive real-time interfaces**.
-- **Flask/Django:** For **backend integration** and **scalable deployment**.
+- **Gradio :** For building **interactive real-time interfaces**.
+
 
 ### 7. **Development Environment**
 - **Jupyter Notebook:** For **exploratory development** and **model experimentation**.
@@ -81,6 +86,7 @@ Follow these steps to run the ISL Interpreter System:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/ISL-Interpreter-System.git
+
 
 
 
