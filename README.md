@@ -123,6 +123,17 @@ The dataset includes 13 essential emergency signs in Indian Sign Language (ISL),
 - **Git and GitHub**: For **version control**, **collaborative development**, and **repository management**.
 
 ---
+## 📊 Algorithm Performance
+
+Here are the performance metrics for the **Convolutional Neural Network (CNN)** used in the ISL Interpreter System:
+
+| **Metric**   | **Value** |
+|--------------|-----------|
+| **Accuracy** | 0.961     |
+| **Precision**| 0.963     |
+| **Recall**   | 0.951     |
+| **F1 Score** | 0.956     |
+
 
 ## 🚀 Getting Started
 
