@@ -1,4 +1,6 @@
 ![ISL Interpreter Logo](DALL·E 2024-11-23 17.43.36 - A logo design for an Indian Sign Language (ISL) interpreter system project. The logo features a pair of stylized hands forming a gesture, representing.webp)
+![ISL Interpreter Logo](DALL·E 2024-11-23 17.43.36 - A logo design for an Indian Sign Language (ISL) interpreter system project. The logo features a pair of stylized hands forming a gesture, representing.webp)
+
 # ISL-Interpretation-system
 ISL Project- This project aims to bridge the communication gap be
 tween the deaf and normal population by developing
