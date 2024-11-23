@@ -175,15 +175,19 @@ While the system is functional and promising, the future scope presents exciting
 ## 🏆 Achievements
 
 - **IEEE Paper Publication**:  
-   The **Indian Sign Language (ISL) Interpreter System** has been featured in an **IEEE paper**, contributing to the academic community in the field of gesture recognition. You can access the paper on IEEE [here](https://ieeexplore.ieee.org/document/10575064).
+   The **Indian Sign Language (ISL) Interpreter System** has been featured in an **IEEE paper**, contributing to the academic community in the field of gesture recognition.  
+   🎓 [Read the IEEE Paper here](https://ieeexplore.ieee.org/document/10575064)
 
 - **Copyright**:  
-   The ISL Interpreter System is a copyrighted project, with all rights reserved. You can view the copyright details [here](https://drive.google.com/file/d/1VsKFun6yfF6oJNPksZuZr-tt3JnRG22O/view).
+   The ISL Interpreter System is a copyrighted project, with all rights reserved.  
+   📜 [View the Copyright details here](https://drive.google.com/file/d/1VsKFun6yfF6oJNPksZuZr-tt3JnRG22O/view)
 
 - **Licensed Dataset**:  
-   The **SignVaria Dataset** used in the ISL Interpreter System has been licensed and made publicly available on Kaggle. The dataset can be accessed [here](https://www.kaggle.com/datasets/sohamvaidya1627/sign-varia).
+   The **SignVaria Dataset** used in the ISL Interpreter System has been licensed and made publicly available on Kaggle.  
+   📊 [Explore and Download the Dataset here](https://www.kaggle.com/datasets/sohamvaidya1627/sign-varia)
 
-These achievements highlight the contribution to the field of accessibility, communication, and inclusion for the hearing-impaired community.
+These achievements showcase the contributions to **accessibility**, **communication**, and **inclusivity** for the hearing-impaired community.  
+
 
 
 
