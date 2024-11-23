@@ -48,7 +48,17 @@ The **SignVaria dataset** is a custom dataset created to enhance the performance
 - **Purpose**: The dataset is used for training **CNN models** to improve the **gesture recognition accuracy**.
 - **Licensing**: The dataset has been **licensed and uploaded on Kaggle**, making it publicly accessible for use and further development in the field of **sign language recognition**.
 - **Access**: You can explore and download the dataset from [Kaggle SignVaria Dataset](https://www.kaggle.com/datasets/sohamvaidya1627/sign-varia).
+  
+### Image Description
+The dataset includes images with the following properties:
+- **Dimensions**: 300 x 300 pixels
+- **Width**: 300 pixels
+- **Height**: 300 pixels
+- **Horizontal Resolution**: 96 dpi
+- **Vertical Resolution**: 96 dpi
+- **Bit Depth**: 24 bits
 
+These images are captured and processed to ensure that the gesture recognition system can accurately interpret hand gestures from the ISL dataset.
 ### Included Emergency Signs:
 The dataset includes 13 essential emergency signs in Indian Sign Language (ISL), specifically curated for use in urgent and critical situations. These signs are crucial in conveying immediate needs, potential dangers, and distress signals, making the dataset valuable for healthcare, emergency services, and safety applications. The categories include:
 
