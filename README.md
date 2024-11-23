@@ -65,6 +65,8 @@ The dataset includes 13 essential emergency signs in Indian Sign Language (ISL),
 - Thief
 - There is Gun
 - Victory
+
+  
 ![Sign Images Example](SignImg.png)
 
 ### Collection Methodology:
