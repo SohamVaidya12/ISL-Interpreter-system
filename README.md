@@ -136,7 +136,7 @@ There is a separate architecture for **CNN** as well as **LSTM** .
 - **Pranali Hagare**: Interface Designer [LinkedIn](https://www.linkedin.com/in/pranali-hagare/)
 
 ## 🙏 Acknowledgments
-We would like to sincerely thank **[Mr.Pradip Shendage]**, our guide, for their invaluable support, feedback, and mentorship throughout the development of the ISL Interpreter System. Their guidance helped us overcome challenges and achieve our project goals.
+We would like to sincerely thank **Mr.Pradip Shendage**, our guide, for their invaluable support, feedback, and mentorship throughout the development of the ISL Interpreter System. Their guidance helped us overcome challenges and achieve our project goals.
 
 
 ## 🏆 Achievements
