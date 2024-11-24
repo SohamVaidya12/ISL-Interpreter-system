@@ -64,10 +64,14 @@ The system uses **both CNN and LSTM models** for training and testing. Below is 
 - The **LSTM model** effectively handles **temporal dependencies**, making it more suitable for dynamic gestures and sequences.
 
 ---
-
 ## 🏗️ Architecture
-![Architecture Diagram](archi1.jpg)
-<img src="archi3.png" alt="Architecture Diagram 2" width="50%">
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="archi1.jpg" alt="Architecture Diagram 1">
+  <img src="archi3.png" alt="Architecture Diagram 2" width="45%">
+</div>
+
+
 The system architecture combines **CNN for feature extraction** and **LSTM for sequence modeling** to deliver a robust real-time gesture recognition solution.
 
 ---
