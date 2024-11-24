@@ -1,6 +1,6 @@
 <div align="center">
   
- <img src="logo3.png" alt="ISL Interpreter Logo" width="50%">
+ <img src="logo3.png" alt="ISL Interpreter Logo" width="40%">
  
 </div>
 
