@@ -67,8 +67,8 @@ The system uses **both CNN and LSTM models** for training and testing. Below is 
 ## 🏗️ Architecture
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="archi1.jpg" alt="Architecture Diagram 1" width="38%">
-  <img src="archi3.png" alt="Architecture Diagram 2" width="35%">
+  <img src="archi1.jpg" alt="Architecture Diagram 1" width="35%">
+  <img src="archi3.png" alt="Architecture Diagram 2" width="40%">
 </div>
 
 
