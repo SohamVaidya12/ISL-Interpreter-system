@@ -48,22 +48,6 @@ The **Indian Sign Language (ISL) Interpreter System** bridges the communication 
 
 ---
 
-## 📊 Algorithm Performance
-
-The system uses **both CNN and LSTM models** for training and testing. Below is a comparative table showcasing the performance metrics of these algorithms:
-
-| **Metric**   | **CNN Model** | **LSTM Model** |
-|--------------|---------------|----------------|
-| **Accuracy** | 0.961         | 0.958          |
-| **Precision**| 0.963         | 0.951          |
-| **Recall**   | 0.951         | 0.947          |
-| **F1 Score** | 0.956         | 0.949          |
-
-### Key Observations:
-- The **CNN model** is slightly better in terms of accuracy and precision, making it ideal for static gesture recognition.
-- The **LSTM model** effectively handles **temporal dependencies**, making it more suitable for dynamic gestures and sequences.
-
----
 ## 🏗️ Architecture
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -107,6 +91,21 @@ There is a separate architecture for **CNN** as well as **LSTM** .
 
 ---
 
+## 📊 Algorithm Performance
+
+The system uses **both CNN and LSTM models** for training and testing. Below is a comparative table showcasing the performance metrics of these algorithms:
+
+| **Metric**   | **CNN Model** | **LSTM Model** |
+|--------------|---------------|----------------|
+| **Accuracy** | 0.961         | 0.958          |
+| **Precision**| 0.963         | 0.951          |
+| **Recall**   | 0.951         | 0.947          |
+| **F1 Score** | 0.956         | 0.949          |
+
+### Key Observations:
+- The **CNN model** is slightly better in terms of accuracy and precision, making it ideal for static gesture recognition.
+- The **LSTM model** effectively handles **temporal dependencies**, making it more suitable for dynamic gestures and sequences.
+  
 ## 🚀 Future Scope
 
 1. **Enhanced Gesture Recognition**:
