@@ -129,10 +129,10 @@ The system uses **both CNN and LSTM models** for training and testing. Below is 
 
 ---
 ##  👥 Contributers
-- **Soham Nilesh Vaidya**: Lead Developer and Researcher [LinkedIn](https://www.linkedin.com/in/soham-vaidya-b31b21224/)
-- **Shivanjali Nimbalkar**: Data Curator and Model Trainer [LinkedIn](https://www.linkedin.com/in/shivanjali-nimbalkar-a55415226/)
-- **Mayuri Gade**: Deployment Specialist [LinkedIn](https://www.linkedin.com/in/mayuri-gade-57835a326/)
-- **Pranali Hagare**: Interface Designer [LinkedIn](https://www.linkedin.com/in/pranali-hagare/)
+- **Soham Nilesh Vaidya**:  [LinkedIn](https://www.linkedin.com/in/soham-vaidya-b31b21224/)
+- **Shivanjali Nimbalkar**: [LinkedIn](https://www.linkedin.com/in/shivanjali-nimbalkar-a55415226/)
+- **Mayuri Gade**:          [LinkedIn](https://www.linkedin.com/in/mayuri-gade-57835a326/)
+- **Pranali Hagare**:       [LinkedIn](https://www.linkedin.com/in/pranali-hagare/)
 
 ## 🙏 Acknowledgments
 We would like to sincerely thank **Mr.Pradip Shendage**, our guide, for their invaluable support, feedback, and mentorship throughout the development of the ISL Interpreter System. Their guidance helped us overcome challenges and achieve our project goals.
