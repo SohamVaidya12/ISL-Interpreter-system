@@ -72,7 +72,7 @@ The system uses **both CNN and LSTM models** for training and testing. Below is 
 </div>
 
 
-The system architecture combines **CNN for feature extraction** and **LSTM for sequence modeling** to deliver a robust real-time gesture recognition solution.
+There is a separate architecture for **CNN** as well as **LSTM** .
 
 ---
 
