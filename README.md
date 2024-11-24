@@ -1,4 +1,4 @@
-![ISL Interpreter Logo](logo1.png)
+![ISL Interpreter Logo](logo2.png)
 
 # ISL Interpreter System
 The **Indian Sign Language (ISL) Interpreter System** bridges the communication gap between the hearing-impaired and non-signing individuals. Utilizing curated datasets and advanced models like CNN and cvzone-based object detection, the system translates short sign words into text in real-time. This tool addresses challenges in emergency communication and promotes inclusivity and accessibility.
