@@ -1,4 +1,8 @@
-<img src="logo3.png" alt="ISL Interpreter Logo" width="50%">
+<div align="center">
+  
+ <img src="logo3.png" alt="ISL Interpreter Logo" width="50%">
+ 
+</div>
 
 # ISL Interpreter System
 
